@@ -6,6 +6,7 @@ about the state of each defined variable.
 
 
 def main():
+    print("testing")
     # Here are the main literal types to be aware of
     a = 1
     b = 2.0

@@ -1,4 +1,5 @@
 # Ultimate Python study guide
+testing
 
 [![CircleCI](https://img.shields.io/circleci/build/github/huangsam/ultimate-python)](https://circleci.com/gh/huangsam/ultimate-python)
 [![Code Coverage](https://img.shields.io/codecov/c/github/huangsam/ultimate-python)](https://codecov.io/gh/huangsam/ultimate-python)
@@ -61,7 +62,7 @@ Once the repository is accessible, you are ready to learn from the standalone
 modules. To get the most out of each module, read the module code and run it.
 There are two ways of running the modules:
 
-1. Run a single module: `python ultimatepython/syntax/variable.py`
+1. Run a single module: `python3 ultimatepython/syntax/variable.py`
 2. Run all of the modules: `python runner.py`
 
 ## Table of contents
